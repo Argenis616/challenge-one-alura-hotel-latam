@@ -1,6 +1,7 @@
 <h4 align="center">
 :construction: Proyecto en construcción :construction:
 </h4>
+
 # Challenge ONE | Java | Back-end | Hotel Alura
 
 <p align="center" >
@@ -15,7 +16,8 @@
 - Biblioteca JCalendar
 - MySql
 - Plugin JFormDesigner </br>
-
+---
+## :hammer:Funcionalidades del proyecto
 ---
 ## ⚠️ Importante! ⚠️
 
