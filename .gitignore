@@ -1,0 +1,30 @@
+# MacOS-specific files
+.DS_Store
+.idea/
+
+# Compiled files
+/bin/
+/target/
+
+# Log files
+*.log
+
+# Maven specific files
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+target/
+
+# Gradle specific files
+.gradle/
+/build/
+
+# Other
+*.class
+*.jar
+*.war
+*.ear
+
